@@ -1,6 +1,6 @@
 # ArduGSM — Arduino and SIM800C GSM Control Board
 
-[Türkçe](README.md) · [Product page](https://ilimera.com/en/urunler/gelistirme-kartlari/ardugsm) · [Technical document (PDF, Turkish)](docs/ArduGSM_teknik_dokuman_v1.pdf)
+[Türkçe](README.md) · [Product page](https://ilimera.com/en/urunler/gelistirme-kartlari/ardugsm) · [Technical document (PDF, Turkish)](docs/ArduGSM_teknik_dokuman_v2.pdf)
 
 ![ArduGSM](docs/images/ardugsm-main.webp)
 

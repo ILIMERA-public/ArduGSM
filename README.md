@@ -1,6 +1,6 @@
 # ArduGSM — Arduino ve SIM800C GSM Kontrol Kartı
 
-[English](README.en.md) · [Ürün sayfası](https://ilimera.com/urunler/gelistirme-kartlari/ardugsm) · [Teknik doküman (PDF)](docs/ArduGSM_teknik_dokuman_v1.pdf)
+[English](README.en.md) · [Ürün sayfası](https://ilimera.com/urunler/gelistirme-kartlari/ardugsm) · [Teknik doküman (PDF)](docs/ArduGSM_teknik_dokuman_v2.pdf)
 
 ![ArduGSM](docs/images/ardugsm-main.webp)
 
